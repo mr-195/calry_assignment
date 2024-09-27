@@ -20,6 +20,7 @@ after this, do
 
 ```bash
 pip install flask
+python main.py
 ```
 ## Running Tests
 
